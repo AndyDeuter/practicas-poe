@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\practicas-de-poe"
+    "\\practicas-de-poe",
+    "\\practicas-de-poe\\StudenAdministrator-20241023",
+    "\\practicas-de-poe\\StudenAdministrator-20241023\\StudenAdministrator",
+    "\\practicas-de-poe\\StudenAdministrator-20241023\\StudenAdministrator\\DataAccessLayer",
+    "\\practicas-de-poe\\StudenAdministrator-20241023\\StudenAdministrator\\DataAccessLayer\\Repositories",
+    "\\practicas-de-poe\\StudentAdministrator"
   ],
-  "SelectedNode": "\\practicas-de-poe\\StudenAdministrator-20241023.zip",
+  "SelectedNode": "\\practicas-de-poe\\StudenAdministrator-20241023\\StudenAdministrator\\DataAccessLayer\\Repositories\\CareerRepository.cs",
   "PreviewInSolutionExplorer": false
 }
